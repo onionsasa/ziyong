@@ -1,0 +1,4 @@
+# Mail
+HOST,imap.gmail.com,Mail
+HOST,pop.gmail.com,Mail
+HOST,smtp.gmail.com,Mail
